@@ -59,6 +59,7 @@
 
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiendnm/)
  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tien_dnm)
+  [![Twitter](https://img.shields.io/badge/My%20portfolio-%23D83B7D.svg?style=for-the-badge)](http://www.tien-dnm.com)
 
 ## Gaming
 
