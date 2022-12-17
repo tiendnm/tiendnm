@@ -9,10 +9,9 @@ src="https://komarev.com/ghpvc/?username=tien-dnm" />
 ##
 
 <div
-style="text-align: center;"
->
+align="center">
 
-![banner](https://komarev.com/ghpvc/?username=tien-dnm)
+![Profile View](https://komarev.com/ghpvc/?username=tien-dnm)
 
 </div>
 
