@@ -17,14 +17,30 @@ src="https://github-readme-stats.vercel.app/api?username=tien-dnm&theme=radical&
 </p>
 <p
 align="center">
+<a
+href="https://github.com/tien-dnm/my-portfolio"
+>
 <img
 src="https://github-readme-stats.vercel.app/api/pin/?username=tien-dnm&repo=my-portfolio&theme=radical" />
+</a>
+<a
+href="https://github.com/tien-dnm/my-resume"
+>
 <img
 src="https://github-readme-stats.vercel.app/api/pin/?username=tien-dnm&repo=my-resume&theme=radical" />
+</a>
+<a
+href="https://github.com/tien-dnm/cms-nodejs-express"
+>
 <img
 src="https://github-readme-stats.vercel.app/api/pin/?username=tien-dnm&repo=cms-nodejs-express&theme=radical" />
+</a>
+<a
+href="https://github.com/tien-dnm/air-conditioner-simulator"
+>
 <img
 src="https://github-readme-stats.vercel.app/api/pin/?username=tien-dnm&repo=air-conditioner-simulator&theme=radical" />
+</a>
 </p>
 
 #
