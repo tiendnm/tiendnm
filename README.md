@@ -1,8 +1,4 @@
-<p
-align="center">
-<img
-src="./banner.png" />
-</p>
+![banner](./banner.png)
 
 <p
 align="center">
@@ -11,6 +7,14 @@ src="https://komarev.com/ghpvc/?username=tien-dnm" />
 </p>
 
 ##
+
+<div
+style="text-align: center;"
+>
+
+![banner](https://komarev.com/ghpvc/?username=tien-dnm)
+
+</div>
 
 <p
 align="center">
