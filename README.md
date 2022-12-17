@@ -15,11 +15,20 @@ align="center">
 <img
 src="https://github-readme-stats.vercel.app/api?username=tien-dnm&theme=radical&show_icons=true" />
 </p>
+<p
+align="center">
+<img
+src="https://github-readme-stats.vercel.app/api/pin/?username=tien-dnm&repo=my-portfolio&theme=radical" />
+<img
+src="https://github-readme-stats.vercel.app/api/pin/?username=tien-dnm&repo=my-resume&theme=radical" />
+</p>
 
-<h2
+#
+
+<h3
 align="center">
 Frameworks / Libraries
-</h2>
+</h3>
 
 <p
 align="center">
@@ -47,10 +56,10 @@ src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&lo
 src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-<h2
+<h3
 align="center">
 Languages
-</h2>
+</h3>
 
 <p
 align="center">
@@ -66,10 +75,10 @@ src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=h
 src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<h2
+<h3
 align="center">
 Databases
-</h2>
+</h3>
 
 <p
 align="center">
@@ -85,10 +94,10 @@ src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=r
 src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-<h2
+<h3
 align="center">
 Design tools
-</h2>
+</h3>
 
 <p
 align="center">
@@ -97,10 +106,10 @@ src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-
 <img
 src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
 </p>
-<h2
+<h3
 align="center">
 IDEs
-</h2>
+</h3>
 <p
 align="center">
 <img
@@ -109,10 +118,10 @@ src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-th
 src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
 </p>
 
-<h2
+<h3
 align="center">
 OS
-</h2>
+</h3>
 
 <p
 align="center">
@@ -128,10 +137,10 @@ src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=androi
 src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
 </p>
 
-<h2
+<h3
 align="center">
 Social
-</h2>
+</h3>
 
 <p
 align="center">
@@ -156,10 +165,10 @@ src="https://img.shields.io/badge/My%20portfolio-%23D83B7D.svg?style=for-the-bad
 
 </p>
 
-<h2
+<h3
 align="center">
 Gaming
-</h2>
+</h3>
 
 <p
 align="center">
