@@ -4,13 +4,13 @@
 
 <div
     style="display: flex;
-        gap:10px;
+        gap:5px;
         justify-content: space-between;
-        margin-bottom: 10px;
-        flex-wrap: wrap;"
+        margin-bottom: 5px;
+        flex-wrap: wrap;flex-direction:row-reverse"
     >
   <div
-    style="display:flex; flex-direction:column;gap:10px">
+    style="display:flex; flex-direction:column;gap:5px">
     <img
      src="https://github-readme-streak-stats.herokuapp.com/?user=tien-dnm&theme=radical" alt=""/>
     <img
