@@ -2,6 +2,14 @@
 
 ![Profile View](https://komarev.com/ghpvc/?username=tien-dnm)
 
+## My Github stats
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=tien-dnm&theme=radical&show_icons=true)
+
+## My most used languages
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tien-dnm&theme=radical&layout=compact)
+
 ## Frameworks / Libraries
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -65,34 +73,3 @@
 ## Gaming
 
  ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-
-## My Stats
-
-<a
-href="http://www.tien-dnm.com">
-  <img
-  align="center"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=tien-dnm&theme=radical"
-  alt="Github streak"
-  />
-</a>
-
-<a
-align="center"
-href="http://www.tien-dnm.com">
-  <img
-  align="center"
-  src="https://github-readme-stats.vercel.app/api?username=tien-dnm&theme=radical&show_icons=true"
-  alt="Github stats"
-  />
-</a>
-
-## Most Used Languages
-
-<a
-href="http://www.tien-dnm.com">
-  <img
-  align="center"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tien-dnm&theme=radical&layout=compact"
-  alt="Languages"/>
-</a>
