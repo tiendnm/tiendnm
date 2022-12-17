@@ -10,11 +10,8 @@ align="center">
 src="https://komarev.com/ghpvc/?username=tien-dnm" />
 </p>
 
-<p
-align="center">
-<img
-src="https://github-readme-stats.vercel.app/api?username=tien-dnm&theme=radical&show_icons=true" />
-</p>
+##
+
 <p
 align="center">
 <a
@@ -43,7 +40,26 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=tien-dnm&repo=air-
 </a>
 </p>
 
-#
+##
+
+<p
+align="center">
+<img
+src="https://github-readme-stats.vercel.app/api?username=tien-dnm&theme=radical&show_icons=true" />
+</p>
+
+##
+
+<p
+align="center">
+<a
+href="https://open.spotify.com/user/21ng6pc6t5dsqrlbi4c7angny">
+<img
+src="https://spotify-recently-played-readme.vercel.app/api?user=21ng6pc6t5dsqrlbi4c7angny&width=500&unique=1&count=1" />
+</a>
+</p>
+
+##
 
 <h3
 align="center">
