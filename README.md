@@ -21,6 +21,10 @@ align="center">
 src="https://github-readme-stats.vercel.app/api/pin/?username=tien-dnm&repo=my-portfolio&theme=radical" />
 <img
 src="https://github-readme-stats.vercel.app/api/pin/?username=tien-dnm&repo=my-resume&theme=radical" />
+<img
+src="https://github-readme-stats.vercel.app/api/pin/?username=tien-dnm&repo=cms-nodejs-express&theme=radical" />
+<img
+src="https://github-readme-stats.vercel.app/api/pin/?username=tien-dnm&repo=air-conditioner-simulator&theme=radical" />
 </p>
 
 #
