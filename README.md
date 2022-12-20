@@ -5,8 +5,6 @@ align="center"
 ![banner](./banner.png)
 
 ![Profile View](https://komarev.com/ghpvc/?username=tien-dnm&color=blueviolet)
-[![GitHub commits](https://badgen.net/github/commits/tien-dnm/tien-dnm/main)](https://GitHub.com/tien-dnm/tien-dnm/commit/)
-[![GitHub commits](https://badgen.net/github/last-commit/tien-dnm/tien-dnm/main)](https://GitHub.com/tien-dnm/tien-dnm/commit/)
 
 [![my-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=tien-dnm&repo=my-portfolio&theme=radical)](https://github.com/tien-dnm/my-portfolio)
 [![my-resume](https://github-readme-stats.vercel.app/api/pin/?username=tien-dnm&repo=my-resume&theme=radical)](https://github.com/tien-dnm/my-resume)
