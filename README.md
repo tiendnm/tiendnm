@@ -8,7 +8,7 @@ align="center"
 
 [![my-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=tien-dnm&repo=my-portfolio&theme=radical)](https://github.com/tien-dnm/my-portfolio)
 [![my-resume](https://github-readme-stats.vercel.app/api/pin/?username=tien-dnm&repo=my-resume&theme=radical)](https://github.com/tien-dnm/my-resume)
-[![cms-nodejs-express](https://github-readme-stats.vercel.app/api/pin/?username=tien-dnm&repo=cms-nodejs-express&theme=radical)](https://github.com/tien-dnm/cms-nodejs-express)
+[![cms-nodejs-express](https://github-readme-stats.vercel.app/api/pin/?username=tien-dnm&repo=cms-expressjs-ts&theme=radical)](https://github.com/tien-dnm/cms-expressjs-ts)
 [![air-conditioner-simulator](https://github-readme-stats.vercel.app/api/pin/?username=tien-dnm&repo=air-conditioner-simulator&theme=radical)](https://github.com/tien-dnm/air-conditioner-simulator)
 
 [![github-stats](https://github-readme-stats.vercel.app/api?username=tien-dnm&theme=radical&show_icons=true)](https://github.com/tien-dnm)
