@@ -4,12 +4,13 @@ align="center"
 
 ![banner](./banner.png)
 
+![Profile View](https://komarev.com/ghpvc/?username=tien-dnm&color=blueviolet)
 
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiendnm/)
 [![twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tien_dnm)
 [![tien-dnm](https://img.shields.io/badge/My%20portfolio-%23D83B7D.svg?style=for-the-badge)](https://www.tien-dnm.com)
 
-![Profile View](https://komarev.com/ghpvc/?username=tien-dnm&color=blueviolet)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21ng6pc6t5dsqrlbi4c7angny&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=21ng6pc6t5dsqrlbi4c7angny&redirect=true)
 
 [![my-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=tien-dnm&repo=my-portfolio&theme=radical)](https://github.com/tien-dnm/my-portfolio)
 [![my-resume](https://github-readme-stats.vercel.app/api/pin/?username=tien-dnm&repo=my-resume&theme=radical)](https://github.com/tien-dnm/my-resume)
@@ -18,7 +19,6 @@ align="center"
 
 [![github-stats](https://github-readme-stats.vercel.app/api?username=tien-dnm&theme=radical&show_icons=true)](https://github.com/tien-dnm)
 
-[![spotify](https://spotify-recently-played-readme.vercel.app/api?user=21ng6pc6t5dsqrlbi4c7angny&width=500&unique=1&count=1)](https://open.spotify.com/user/21ng6pc6t5dsqrlbi4c7angny)
 
 </div>
 
