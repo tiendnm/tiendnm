@@ -12,10 +12,8 @@ align="center"
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21ng6pc6t5dsqrlbi4c7angny&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=21ng6pc6t5dsqrlbi4c7angny&redirect=true)
 
-[![my-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=tiendnm&repo=my-portfolio&theme=radical)](https://github.com/tiendnm/my-portfolio)
-[![my-resume](https://github-readme-stats.vercel.app/api/pin/?username=tiendnm&repo=my-resume&theme=radical)](https://github.com/tiendnm/my-resume)
-[![cms-nodejs-express](https://github-readme-stats.vercel.app/api/pin/?username=tiendnm&repo=cms-expressjs-ts&theme=radical)](https://github.com/tiendnm/cms-expressjs-ts)
-[![air-conditioner-simulator](https://github-readme-stats.vercel.app/api/pin/?username=tiendnm&repo=air-conditioner-simulator&theme=radical)](https://github.com/tiendnm/air-conditioner-simulator)
+[![my-blog](https://github-readme-stats.vercel.app/api/pin/?username=tiendnm&repo=blog&theme=radical)](https://github.com/tiendnm/blog)
+[![my-resume](https://github-readme-stats.vercel.app/api/pin/?username=tiendnm&repo=reactjs.my-resume&theme=radical)](https://github.com/tiendnm/reactjs.my-resume)
 
 [![github-stats](https://github-readme-stats.vercel.app/api?username=tiendnm&theme=radical&show_icons=true)](https://github.com/tiendnm)
 
