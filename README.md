@@ -7,11 +7,10 @@ align="center"
 ![Profile View](https://komarev.com/ghpvc/?username=tiendnm&color=blueviolet)
 
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiendnm/)
-[![twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tien_dnm)
-[![tiendnm](https://img.shields.io/badge/My%20portfolio-%23D83B7D.svg?style=for-the-badge)](https://www.tiendnm.com)
+[![twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tiendnm_)
+[![tiendnm](https://img.shields.io/badge/My%20blog-%23D83B7D.svg?style=for-the-badge)](https://blog.tiendnm.com)
 
 [![my-blog](https://github-readme-stats.vercel.app/api/pin/?username=tiendnm&repo=blog&theme=radical)](https://github.com/tiendnm/blog)
-[![my-resume](https://github-readme-stats.vercel.app/api/pin/?username=tiendnm&repo=reactjs.my-resume&theme=radical)](https://github.com/tiendnm/reactjs.my-resume)
 
 [![github-stats](https://github-readme-stats.vercel.app/api?username=tiendnm&theme=radical&show_icons=true)](https://github.com/tiendnm)
 
