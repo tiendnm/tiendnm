@@ -2,7 +2,7 @@
 align="center"
 >
 
-![banner](./banner.png)
+![banner](./banner.gif)
 
 ![Profile View](https://komarev.com/ghpvc/?username=tiendnm&color=blueviolet)
 
