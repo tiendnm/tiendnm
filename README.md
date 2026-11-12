@@ -12,10 +12,6 @@ align="center"
 
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tiendnm&theme=highcontrast" />
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiendnm&layout=compact&langs_count=8&card_width=320&theme=highcontrast" />
-
-[![my-blog](https://github-readme-stats.vercel.app/api/pin/?username=tiendnm&repo=blog&theme=highcontrast)](https://github.com/tiendnm/blog)
-[![my-blog](https://github-readme-stats.vercel.app/api/gist?id=9411d0300e28d6ec6882cbf6e1839617&theme=highcontrast)](https://gist.github.com/tiendnm/9411d0300e28d6ec6882cbf6e1839617)
-
 [
 ![react](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![next](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js&logoColor=white)
